@@ -1,4 +1,6 @@
-# biquge
+# wx_mpvue
+
+本项目数据来之微信小程序QQ阅读，本项目数据只做学习用途，如有侵权，请联系2402249797@qq.com 进行删除。
 
 > A Mpvue project
 
